@@ -3,4 +3,5 @@ Comfortable with programming languages like JAVA, C and familiar with Kotlin.Str
 from Chitkara University,Punjab.
 
 Linkedin- https://www.linkedin.com/in/rishabh-srivastava-r7/
+
 Insta- rishu.r7
