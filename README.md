@@ -1,6 +1,4 @@
-Developer with a demonstrated history of live working applications. Skilled in Data Structure, Algorithm, Android Development, Web Development and Graphic Designing. 
-Comfortable with programming languages like JAVA, C and familiar with Kotlin.Strong engineering professional with a Bachelor of Engineering B.E focused Computer Science 
-from Chitkara University,Punjab.
+Developer with a demonstrated history of live working applications. Made several applications on Android Studio and worked on both front-end and back-end in Web Development.Skilled in Data Structure, Algorithm and Problem Solving. Comfortable with programming languages like JAVA, C, Java Script and familiar with Kotlin. Strong engineering professional with a Bachelor of Engineering B.E focused Computer Science from Chitkara University,Punjab.
 
 Linkedin- https://www.linkedin.com/in/rishabh-srivastava-r7/
 
