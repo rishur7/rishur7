@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **FULL Stack WEB Development**
 
-- 📫 How to reach me **rishabh2031.cse18@chitkara.edu.in**
+- 📫 How to reach me **rishabhsrv007@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [https://in.linkedin.com/in/rishabh-srivastava-r7](https://in.linkedin.com/in/rishabh-srivastava-r7)
 
 - ⚡ Fun fact **I am IronMan**
 
